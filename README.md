@@ -3,3 +3,5 @@ Este repositório foi criado exclusivamente para que os estudantes de Programaç
 Na linha 2, você escreveu criado errado.
 
 Pablo
+
+Lais Seabra
